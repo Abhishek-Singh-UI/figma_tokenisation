@@ -1,0 +1,3 @@
+The problem statemen- One JSON file has some data which i have to use to
+ display its values on the screen and the user can edit on the data there
+  which is color in this case. 
